@@ -4,6 +4,9 @@ A simple CMake C++ project structure.
 ## Structure
 ```
 cmake-cpp-project
+ ├── cmake
+ │   ├── googletest.cmake
+ │   └── googletest-download.cmake
  ├── include
  │   └── cmake-cpp-project
  │       └── app.h
